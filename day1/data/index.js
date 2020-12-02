@@ -1,5 +1,4 @@
-module.exports = `
-2010
+module.exports = `2010
 1856
 1905
 1786
